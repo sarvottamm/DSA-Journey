@@ -1,7 +1,7 @@
-package LargEleArr;
+package midEleLinkedlist;
 
 
-class LargEleArr{
+class midEleLinkedlist{
 
     //method to get middel alement
 
