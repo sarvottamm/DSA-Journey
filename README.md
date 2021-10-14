@@ -11,4 +11,5 @@ GeekForGeeks [@sarvottamsharmaa](https://auth.geeksforgeeks.org/user/sarvottamsh
 
 | Date       |           Question                                                                      |  Platform   | Category | Difficulty | solve         
 |------------|-----------------------------------------------------------------------------------------|-------------|----------|------------|--------------------
-|  14 Oct    | #1 [Balanced Array ](https://practice.geeksforgeeks.org/problems/balanced-array07200720/1) |     GFG |  Array     |  Basic     |  [solution](https://github.com/sarvottamm/DSA-Journey/blob/master/Oct-2021/GeekForGeeks/Balanced%20Array/Balanced.java)
+|  14 Oct    | #2 [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/) |     GFG |  Linkedlist     |  easy     |  [solution](https://github.com/sarvottamm/DSA-Journey/blob/master/Oct-2021/GeekForGeeks/midEleLinkedlist/midEleLinkedlist.java)
+|  13 Oct    | #1 [Balanced Array ](https://practice.geeksforgeeks.org/problems/balanced-array07200720/1) |     GFG |  Array     |  Basic     |  [solution](https://github.com/sarvottamm/DSA-Journey/blob/master/Oct-2021/GeekForGeeks/Balanced%20Array/Balanced.java)
